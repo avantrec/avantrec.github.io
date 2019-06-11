@@ -1,0 +1,6 @@
+name: Avantrec Ltd
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+# Added these in an attempt to fix non-publishing
+# timezone: GMT
+# future: true
