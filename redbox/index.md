@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Redbox 1 Beta
+title: Redbox
 ---
 
-# Avantrec Redbox 1
+# Avantrec Redbox
 
 ## What is Redbox 1?
 
