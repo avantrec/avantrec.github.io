@@ -7,7 +7,7 @@ title: SonoPlus Beta
 
 ![SonoPlus Diagram](/images/raspberrypi-in-case-01-300px.png)
 
-The SonoPlus concept and device are currently in limited Beta test, with a small number of units being field-tested. The purpose of the beta test is to assess how well the SonoPlus works in a variety of environments, and to gather feedback from users about the product concept.
+The SonoPlus concept and device are currently in limited Beta test, with a small number of units being field-tested. The purpose of the beta test is to assess how well SonoPlus works in a variety of environments, and to gather feedback from users about the product concept.
 
 If you're interested in participating in the Beta test, please get in touch by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> and include the following information:
 
