@@ -9,7 +9,7 @@ title: FAQ
 
 ## What's included?
 
-The SonoPlus is a standard Raspberry Pi 3 computer housed in the official red and white Raspberry Pi case, as shown above. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
+The SonoPlus is a Raspberry Pi 3 computer housed in the official red and white Raspberry Pi case, as shown above. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
 
 ## How do I set up my SonoPlus?
 
@@ -21,7 +21,7 @@ SonoPlus is an 'appliance', and no end-user configuration or management is requi
 
 Your older Sonos speakers simply appear as new AirPlay targets, and they can be used and controlled exactly like 'native' AirPlay speakers. The SonoPlus speakers are denoted by a '+' after their Sonos room name, e.g.:
 
-![SonoPlus](/images/AirPlayMenu.png)
+![SonoPlus](/images/AirPlayMenu_Smaller.png)
 
 SonoPlus supports multiple simultaneous AirPlay streams from different Apple devices to different Sonos speakers, and works with speakers that are grouped via the Sonos app.
 
