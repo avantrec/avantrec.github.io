@@ -49,6 +49,10 @@ If you want a plug-and-play solution that delivers a reliable and easy to use Ai
 
 However, if you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, you could give that a try first.
 
+## Is AirPlay version 1 any good?
+
+While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed, and it's supported by a much wider range of Apple OS versions and devices than AirPlay v2. In particular, the AirConnect code used by SonoPlus allows the use of generous buffering -- on both the sending and receiving streams -- to prevent audio dropouts.
+
 ## What is SonoPlus *not* good for?
 
 SonoPlus provides AirPlay v1, not v2. This means that it doesn't include the enhancements in v2, such as the ability to synchronise audio with video playback on the sending device.
