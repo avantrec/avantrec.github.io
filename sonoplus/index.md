@@ -5,7 +5,7 @@ title: SonoPlus
 
 # Avantrec SonoPlus
 
-**SonoPlus adds direct AirPlay capability for all older Sonos players.**
+**SonoPlus adds direct AirPlay capability to all your older Sonos players.**
 
 SonoPlus is delivered as a preconfigured Raspberry Pi computer that you simply connect to your router using an Ethernet cable.
 

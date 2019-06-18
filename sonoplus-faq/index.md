@@ -35,11 +35,11 @@ SonoPlus configures AirConnect to exclude any newer Sonos players that already s
 
 ## How's the sound quality?
 
-AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format, with no loss of quality, for playback by Sonos. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
+AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
 
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
-Avantrec uses the [Balena](https://www.balena.io) Internet of Things (iOT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
+Avantrec uses the [Balena](https://www.balena.io) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
