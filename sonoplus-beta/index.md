@@ -18,4 +18,4 @@ If you're interested in participating in the Beta test, please get in touch by e
 
 If you participate in the Beta test you agree that Avantrec Ltd can remotely access your SonoPlus device, for the sole purposes of monitoring its behaviour (including troubleshooting) and updating its software.
 
-Beta test units are currently being supplied without charge, but we reserve the right to request the return of the units at the end of the trial.
+Beta test units are currently being supplied free of charge, but we reserve the right to request the return of the units at the end of the trial.
