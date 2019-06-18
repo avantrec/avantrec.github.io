@@ -37,6 +37,10 @@ SonoPlus configures AirConnect to exclude any newer Sonos players that already s
 
 AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
 
+## Is AirPlay version 1 any good?
+
+While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed, and it's supported by a much wider range of Apple OS versions and devices than AirPlay v2. In particular, the AirConnect code used by SonoPlus allows the use of generous buffering -- on both the sending and receiving streams -- to prevent audio dropouts.
+
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
 Avantrec uses the [Balena](https://www.balena.io) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
@@ -48,10 +52,6 @@ This approach has a strong focus on [security](https://www.balena.io/docs/learn/
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs.
 
 However, if you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, you could give that a try first.
-
-## Is AirPlay version 1 any good?
-
-While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed, and it's supported by a much wider range of Apple OS versions and devices than AirPlay v2. In particular, the AirConnect code used by SonoPlus allows the use of generous buffering -- on both the sending and receiving streams -- to prevent audio dropouts.
 
 ## What is SonoPlus *not* good for?
 
