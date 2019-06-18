@@ -17,14 +17,6 @@ Simply connect the Ethernet cable between the SonoPlus's Ethernet port and a spa
 
 SonoPlus is an 'appliance', and no end-user configuration or management is required.
 
-## How does the SonoPlus AirPlay feature work?
-
-SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay version 1 capability to all Sonos players. 
-
-SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. If an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
-
-SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
-
 ## How do I use SonoPlus AirPlay?
 
 Your older Sonos speakers simply appear as new AirPlay targets, and they can be used and controlled exactly like 'native' AirPlay speakers. The SonoPlus speakers are denoted by a '+' after their Sonos room name, e.g.:
@@ -32,6 +24,14 @@ Your older Sonos speakers simply appear as new AirPlay targets, and they can be 
 ![SonoPlus](/images/AirPlayMenu.png)
 
 SonoPlus supports multiple simultaneous AirPlay streams from different Apple devices to different Sonos speakers, and works with speakers that are grouped via the Sonos app.
+
+## How does the SonoPlus AirPlay feature work?
+
+SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay version 1 capability to all Sonos players. 
+
+SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. If an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
+
+SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
 ## How's the sound quality?
 
