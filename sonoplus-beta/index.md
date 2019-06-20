@@ -14,7 +14,7 @@ If you're interested in participating in the Beta test, please get in touch by e
 1. The country in which your SonoPlus will be used
 2. Which Sonos speakers or other Sonos devices you have
 3. Which Apple devices you have from which you use (or will use) AirPlay
-4. Which audio sources (e.g., podcasts, local music on phone) you'll use with AirPlay and Sonos
+4. Which audio sources (e.g., podcasts, local music on phone, BBC Sounds) you'll use with AirPlay and Sonos
 
 If you participate in the Beta test you agree that Avantrec Ltd can remotely access your SonoPlus device, for the sole purposes of monitoring its behaviour (including troubleshooting) and updating its software.
 
