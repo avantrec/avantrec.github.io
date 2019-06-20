@@ -13,7 +13,7 @@ The SonoPlus is a Raspberry Pi 3 computer housed in the official red and white R
 
 ## How do I set up my SonoPlus?
 
-Simply connect the Ethernet cable between the SonoPlus's Ethernet port and a spare Ethernet port on your router or other network switch on the same network. Then, connect the power supply to a power socket and the Micro-USB connector. That's it.
+Simply connect the Ethernet cable between the SonoPlus's Ethernet port and a spare Ethernet port on your router or other network switch on the same network. Then, connect the power supply to a power socket and to the Micro-USB connector on the SonoPlus. That's it.
 
 SonoPlus is an 'appliance', and no end-user configuration or management is required.
 
@@ -25,7 +25,7 @@ Your older Sonos players appear as new AirPlay speakers, and they can be used an
 
 SonoPlus supports multiple simultaneous AirPlay streams from different Apple devices to different Sonos speakers, and works with speakers that are grouped via the Sonos app.
 
-Speaker volume, play/pause, next/previous track are all controlled by the sending device, as with any other AirPlay device.
+Speaker volume, play/pause, next/previous track are all controlled by the sending device, as with any other AirPlay speaker.
 
 ## How does the SonoPlus AirPlay feature work?
 
