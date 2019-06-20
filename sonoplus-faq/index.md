@@ -29,7 +29,7 @@ Speaker volume, play/pause, next/previous track are all controlled by the sendin
 
 ## How does the SonoPlus AirPlay feature work?
 
-SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay version 1 capability to all Sonos players. 
+SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay version 1 capabilities to all Sonos players. 
 
 SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. If an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
 
