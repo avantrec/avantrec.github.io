@@ -41,7 +41,7 @@ SonoPlus configures AirConnect to exclude any newer Sonos players that already s
 
 ## How's the sound quality?
 
-AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
+It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
 
 ## Is AirPlay version 1 any good?
 
