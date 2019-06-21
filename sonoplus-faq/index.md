@@ -27,7 +27,7 @@ SonoPlus supports multiple simultaneous AirPlay streams from different Apple dev
 
 Speaker volume, play/pause, next/previous track are all controlled by the sending device, as with any other AirPlay speaker.
 
-In the Sonos apps, you'll see that audio is being sent via your SonoPlus:
+In the Sonos apps, you'll see that audio is being sent to your Sonos player(s) via your SonoPlus:
 
 ![SonoPlus](/images/SonosAppView_Smaller.png)
 
@@ -59,7 +59,7 @@ SonoPlus requires an Internet connection only for remote management and software
 
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs.
 
-However, if you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, you could give that a try first.
+If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth a try.
 
 ## What is SonoPlus *not* good for?
 
