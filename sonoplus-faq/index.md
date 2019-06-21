@@ -27,6 +27,10 @@ SonoPlus supports multiple simultaneous AirPlay streams from different Apple dev
 
 Speaker volume, play/pause, next/previous track are all controlled by the sending device, as with any other AirPlay speaker.
 
+In the Sonos apps, you'll see that audio is being sent via your SonoPlus:
+
+
+
 ## How does the SonoPlus AirPlay feature work?
 
 SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay version 1 capabilities to all Sonos players. 
@@ -49,7 +53,7 @@ Avantrec uses the [Balena](https://www.balena.io) Internet of Things (IoT)  serv
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-Note that SonoPlus requires an Internet connection only for remote management and software updates. Its AirPlay function doesn't require an Internet connection.
+SonoPlus requires an Internet connection only for remote management and software updates. Its AirPlay function doesn't require an Internet connection.
 
 ## Is SonoPlus for me?
 
