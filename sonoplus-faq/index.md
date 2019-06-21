@@ -49,6 +49,8 @@ Avantrec uses the [Balena](https://www.balena.io) Internet of Things (IoT)  serv
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
+Note that SonoPlus requires an Internet connection only for remote management and software updates. Its AirPlay function doesn't require an Internet connection.
+
 ## Is SonoPlus for me?
 
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs.
