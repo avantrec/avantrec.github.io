@@ -29,7 +29,7 @@ Speaker volume, play/pause, next/previous track are all controlled by the sendin
 
 In the Sonos apps, you'll see that audio is being sent via your SonoPlus:
 
-
+![SonoPlus](/images/SonosAppView_Smaller.png)
 
 ## How does the SonoPlus AirPlay feature work?
 
