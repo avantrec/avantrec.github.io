@@ -13,7 +13,7 @@ The SonoPlus is a [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberr
 
 ## How do I set up my SonoPlus?
 
-Simply connect the SonoPlus to your network using the Ethernet cable. Then, plug in the power supply and connect it to the Micro-USB power socket on the SonoPlus. That's it.
+Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the Micro-USB power socket on the SonoPlus. That's it.
 
 SonoPlus is an 'appliance', and no end-user configuration or management is required.
 
@@ -33,7 +33,7 @@ In the Sonos apps, you'll see that audio is being sent to your Sonos player(s) v
 
 ## How does the SonoPlus AirPlay feature work?
 
-SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay version 1 capabilities to all Sonos players. 
+SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay (v1) capabilities to all Sonos players. 
 
 SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. If an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
 
@@ -45,9 +45,9 @@ Avantrec contributes to AirConnect's development by submitting code improvements
 
 It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
 
-## Is AirPlay version 1 any good?
+## Is AirPlay v1 any good?
 
-While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed. In particular, the AirConnect code used by SonoPlus allows the use of generous buffering -- on both the sending and receiving streams -- to prevent audio dropouts.
+While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed. In particular, the AirConnect system installed in SonoPlus allows generous buffering to be configured, to prevent audio dropouts.
 
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
