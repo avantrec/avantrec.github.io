@@ -7,7 +7,7 @@ title: FAQ
 
 ## What's included?
 
-The SonoPlus is a Raspberry Pi 3 computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
+The SonoPlus is a [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
 
 ![SonoPlus](/images/20190622-DSC_8894.jpg)
 
@@ -39,6 +39,8 @@ SonoPlus detects all Sonos players, and creates AirPlay targets for each of them
 
 SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
+Avantrec contributes to AirConnect's development by submitting code improvements, suggesting feature enhancements, and reporting defects. We also independently test every new AirConnect release before making it available on SonoPlus.
+
 ## How's the sound quality?
 
 It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
@@ -53,7 +55,7 @@ Avantrec uses the [Balena](https://www.balena.io) Internet of Things (IoT)  serv
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-SonoPlus requires an Internet connection only for remote management and software updates. Its AirPlay function doesn't require an Internet connection.
+SonoPlus requires an Internet connection only for remote management and software updates. The AirPlay function itself doesn't require an Internet connection.
 
 ## Is SonoPlus for me?
 
@@ -64,5 +66,9 @@ If you're technically capable and can set up AirConnect on your own Raspberry Pi
 ## What is SonoPlus *not* good for?
 
 SonoPlus provides AirPlay v1, not v2. This means that it doesn't include the enhancements in v2, such as the ability to synchronise audio with video playback on the sending device.
+
+## Is there a software-only version of SonoPlus?
+
+Not yet, but possibly in the future. We want to control the exact hardware specifications for the time being, to deliver a consistently good experience.
 
 *Any other questions? Please get in touch at [avantrec.ltd@gmail.com](avantrec.ltd@gmail.com)*.
