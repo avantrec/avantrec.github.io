@@ -3,7 +3,7 @@ layout: sonoplus
 title: SonoPlus Beta
 ---
 
-# SonoPlus Beta Test
+# SonoPlus Beta Trial
 
 The SonoPlus concept and device are currently in limited Beta test, with a small number of units being field-tested. The purpose of the beta test is to assess how well SonoPlus works in a variety of user environments, and to gather feedback about the product concept.
 
@@ -16,4 +16,6 @@ If you're interested in participating in the Beta test, please get in touch by e
 
 If you participate in the Beta test you agree that Avantrec Ltd can remotely access your SonoPlus device, for the sole purposes of monitoring its performance (including troubleshooting) and updating its software.
 
-Beta test units are currently being supplied free of charge, but we reserve the right to request the return of the units at the end of the trial.
+SonoPlus Beta units are currently being supplied free of charge, but we reserve the right to request the return of the units at the end of the trial (after several months of usage).
+
+Thanks for your interest in the SonoPlus Beta trial.
