@@ -1,6 +1,6 @@
 ---
 layout: sonoplus
-title: SonoPlus
+title: About SonoPlus
 ---
 
 # SonoPlus by Avantrec 
