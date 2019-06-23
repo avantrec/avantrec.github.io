@@ -3,7 +3,7 @@ layout: sonoplus
 title: About SonoPlus
 ---
 
-# SonoPlus by Avantrec 
+# SonoPlus
 
 **SonoPlus adds AirPlay capability to all your older Sonos players.**
 
