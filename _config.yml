@@ -4,3 +4,9 @@ permalink: /blog/:year/:month/:day/:title
 # Added these in an attempt to fix non-publishing
 # timezone: GMT
 # future: true
+
+# Use a collection to allow a second level of blog, for SonoPlus
+collections:
+  sonoplus-posts:
+    output: true
+    permalink: /sonoplus-posts/:path/

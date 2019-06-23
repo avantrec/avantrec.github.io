@@ -15,7 +15,7 @@ The SonoPlus is a [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberr
 
 Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the Micro-USB power socket on the SonoPlus. That's it.
 
-SonoPlus is an 'appliance', and no end-user configuration or management is required.
+SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required.
 
 ## How do I use SonoPlus AirPlay?
 
