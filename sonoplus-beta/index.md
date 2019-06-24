@@ -9,7 +9,7 @@ The SonoPlus concept and device are currently in limited Beta test, with a small
 
 If you're interested in participating in the Beta test, please get in touch by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> and include the following information:
 
-1. Which Sonos speakers or other Sonos devices you have
+1. Which Sonos speakers/players you have
 2. Which Apple devices you have from which you use (or will use) AirPlay
 3. Which audio sources (e.g., podcasts, local music on phone, BBC Sounds) you'll use with AirPlay and Sonos
 
