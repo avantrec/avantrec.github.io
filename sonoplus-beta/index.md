@@ -13,7 +13,7 @@ If you're interested in participating in the Beta test, please get in touch by e
 2. Which Apple devices you have from which you use (or will use) AirPlay
 3. Which audio sources (e.g., podcasts, local music on phone, BBC Sounds) you'll use with AirPlay and Sonos
 
-If you're selected for the trial, a SonoPlus unit will be sent to you free of charge. We reserve the right to request the return of the unit at the end of the trial, which is expected to last until the end of 2019.
+If you're selected for the beta trial, We'll send a SonoPlus unit to you free of charge. We reserve the right to request the return of the unit at the end of the trial, which is expected to last until the end of 2019.
 
 If you participate in the Beta test you agree to make use of the SonoPlus and report back on your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). **No** personal information of any kind is shared with any third party.
 
