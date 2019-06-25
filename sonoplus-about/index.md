@@ -5,6 +5,6 @@ title: About Avantrec
 
 # About Avantrec Ltd
 
-Avantrec Ltd is a newly-formed small company based in Bristol in the UK.
+Avantrec Ltd is a newly-formed small company based in Bristol in the UK. SonoPlus is one of our initial projects.
 
-We've been on an enjoyable mission to improve the Sonos experience in our own homes, with really excellent results. SonoPlus is our way of helping others enjoy the same Sonos enhancements without needing technical know-how.
+SonoPlus emerged from our efforts to address gaps in the Sonos experience for our own Sonos installations, with significant success. SonoPlus packages and  'productises' these enhancements to make them available to everyone, without needing technical know-how.

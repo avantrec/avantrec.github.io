@@ -15,6 +15,6 @@ If you're interested in participating in the beta trial, please get in touch by 
 
 If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge. We reserve the right to request the return of the unit at the end of the trial, which is expected to last until the end of 2019.
 
-If you choose to participate in the beta trial, you agree to make use of the SonoPlus and let us know about your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). See the [FAQ](../sonoplus-faq/index.html#remote-management) for more information on remote management. **No** personal information of any kind will be shared with any third party.
+If you participate in the beta trial you agree to make use of the SonoPlus and let us know about your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). See the [FAQ](../sonoplus-faq/index.html#remote-management) for more information on remote management. **No** personal information of any kind will be shared with any third party.
 
 Thanks for your interest in the SonoPlus beta trial.
