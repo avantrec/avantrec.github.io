@@ -49,9 +49,10 @@ It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and Son
 
 While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed. In particular, the AirConnect system installed in SonoPlus allows generous buffering to be configured, to prevent audio dropouts.
 
+{: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
-Avantrec uses the [Balena](https://www.balena.io) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
+We use the [Balena](https://www.balena.io) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
