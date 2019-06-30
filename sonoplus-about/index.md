@@ -3,7 +3,7 @@ layout: sonoplus
 title: About Avantrec
 ---
 
-# About Avantrec Ltd
+# About Avantrec
 
 Avantrec Ltd is a newly-formed small company based in Bristol in the UK. SonoPlus is one of our initial projects.
 
