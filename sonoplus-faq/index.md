@@ -72,4 +72,8 @@ SonoPlus provides AirPlay v1, not v2. This means that it doesn't include the enh
 
 Not yet, but possibly in the future. We want to control the exact hardware specifications for the time being, to deliver a consistently good experience.
 
+## What's next for SonoPlus?
+
+AirPlay is just the first in a series of Sonos enhancement functions under development for SonoPlus, which is designed to support multiple complementary features as independent software 'slices' that can be enabled and disabled on a per-device basis. New features will be delivered automatically as software updates.
+
 *Any other questions? Please get in touch at [avantrec.ltd@gmail.com](avantrec.ltd@gmail.com)*.
