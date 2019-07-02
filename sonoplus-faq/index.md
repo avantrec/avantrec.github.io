@@ -56,7 +56,7 @@ We use the [Balena](https://www.balena.io) Internet of Things (IoT)  service to 
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-SonoPlus requires an Internet connection only for remote management and software updates. The AirPlay function itself doesn't require an Internet connection.
+SonoPlus requires an Internet connection only to obtain software updates and to permit remote management, using a secure outbound VPN conection. No inbound connections from the Internet are required. Use of the AirPlay function itself doesn't require an Internet connection.
 
 ## Is SonoPlus for me?
 
