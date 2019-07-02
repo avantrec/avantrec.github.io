@@ -49,7 +49,7 @@ It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and Son
 
 ## Is AirPlay v1 any good?
 
-While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well indeed. In particular, the AirConnect system installed in SonoPlus allows generous buffering to be configured, to prevent audio dropouts.
+While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well. In particular, the AirConnect system installed in SonoPlus allows generous buffering to be configured on both the sending (AirPlay) and receiving (Sonos) streams, to prevent audio dropouts.
 
 {: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
