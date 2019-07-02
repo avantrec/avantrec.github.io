@@ -23,7 +23,7 @@ Your older Sonos players appear as new AirPlay speakers, and they can be used an
 
 ![SonoPlus](/images/AirPlayMenu_Smaller.png)
 
-SonoPlus supports multiple simultaneous AirPlay streams from different Apple devices to different Sonos speakers, and works with speakers that are grouped via the Sonos app.
+SonoPlus supports multiple simultaneous AirPlay streams from different Apple devices to different Sonos speakers, so you only need one SonoPlus device to support all of your Sonos players.
 
 Speaker volume, play/pause, next/previous track are all controlled by the sending device, as with any other AirPlay speaker.
 
@@ -33,11 +33,13 @@ In the Sonos apps, you'll see that audio is being sent to your Sonos player(s) v
 
 You can also adjust the speaker volume and stop the audio stream, directly from the Sonos app.
 
+Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay stream will be sent to all of the grouped players (Sonos does the synchronised distribution to all of the grouped players).
+
 ## How does SonoPlus AirPlay work?
 
 SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay (v1) capabilities to all Sonos players. 
 
-SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. If an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
+SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
 
 SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
