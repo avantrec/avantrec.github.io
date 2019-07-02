@@ -19,7 +19,7 @@ SonoPlus is a plug-and-play 'appliance', and no end-user configuration or manage
 
 ## How do I use SonoPlus AirPlay?
 
-Your older Sonos players appear as new AirPlay speakers, and they can be used and controlled exactly like any other AirPlay devices. The new SonoPlus speakers are denoted by a '+' after their Sonos room name, e.g.:
+Your older Sonos players appear as new AirPlay speakers, and they can be used and controlled exactly like any other AirPlay devices. The new SonoPlus speakers are denoted by a plus ('+') after their Sonos room name, e.g.:
 
 ![SonoPlus](/images/AirPlayMenu_Smaller.png)
 
