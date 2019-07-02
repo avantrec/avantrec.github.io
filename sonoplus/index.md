@@ -3,7 +3,7 @@ layout: sonoplus
 title: About SonoPlus
 ---
 
-# SonoPlus
+# About SonoPlus
 
 **SonoPlus adds AirPlay capability to all your older Sonos players.**
 
@@ -16,4 +16,4 @@ Once your SonoPlus is connected, all Sonos players will appear as AirPlay speake
 
 Automatic software updates mean that your SonoPlus is kept up-to-date and secure, and its functionality will grow over time to include new features to enhance the Sonos experience. 
 
-SonoPlus is currently in Beta test and is not yet on general sale. Learn more at the [FAQ]({{ site.baseurl }}{% link sonoplus-faq/index.md %}) and [Beta]({{ site.baseurl }}{% link sonoplus-beta/index.md %}) pages.
+SonoPlus is currently in beta test and is not yet on general sale. Learn more at the [FAQ]({{ site.baseurl }}{% link sonoplus-faq/index.md %}) and [Beta]({{ site.baseurl }}{% link sonoplus-beta/index.md %}) pages.
