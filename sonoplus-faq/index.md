@@ -33,7 +33,7 @@ In the Sonos apps, you'll see that audio is being sent to your Sonos player(s) v
 
 You can also adjust the speaker volume and stop the audio stream, directly from the Sonos app.
 
-Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay stream will be sent to all of the grouped players (Sonos does the synchronised distribution to all of the grouped players).
+Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay stream will be sent to all of the grouped players, with Sonos managing the synchronised distribution as with any other audio source.
 
 ## How does SonoPlus AirPlay work?
 
