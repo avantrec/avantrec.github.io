@@ -4,4 +4,4 @@ title: Avantrec Ltd
 ---
 # Avantrec Ltd
 
-Technology consultancy, leadership, and product development.
+Technology leadership, consultancy, and product development.
