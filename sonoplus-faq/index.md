@@ -31,6 +31,8 @@ In the Sonos apps, you'll see that audio is being sent to your Sonos player(s) v
 
 ![SonoPlus](/images/SonosAppView_Smaller.png)
 
+You can also adjust the speaker volume and stop the audio stream, directly from the Sonos app.
+
 ## How does the SonoPlus AirPlay feature work?
 
 SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay (v1) capabilities to all Sonos players. 
