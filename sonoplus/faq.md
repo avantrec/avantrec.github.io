@@ -7,7 +7,7 @@ title: FAQ
 
 ## What's included?
 
-The SonoPlus is a [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
+The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
 
 ![SonoPlus](/images/20190622-DSC_8894.jpg)
 
@@ -62,6 +62,10 @@ This approach has a strong focus on [security](https://www.balena.io/docs/learn/
 
 SonoPlus requires an Internet connection to obtain software updates and to permit remote management, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself doesn't require an Internet connection.
 
+## Which Sonos players are supported?
+
+SonoPlus supports all Sonos players ever produced. This includes the newer players that provide AirPlay 2, but these are detected and omitted by SonoPlus.
+
 ## Is SonoPlus for me?
 
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs. 
@@ -75,6 +79,10 @@ SonoPlus provides AirPlay v1, not v2. This means that it doesn't include the enh
 ## Is there a software-only version of SonoPlus?
 
 Not yet, but possibly in the future. We want to control the exact hardware specifications for the time being, to deliver a consistently good experience.
+
+## Why do you use a Raspberry Pi as the basis for SonoPlus?
+
+The Pi is ideally suited for the SonoPlus application. It's small, silent, reliable, has low power demands, and has regulatory approval in all target geographies. And, it's a little computing  powerhouse, with more than enough processing power for the initial AirPlay capability as well as for a range of upcoming new features.
 
 ## What's next for SonoPlus?
 
