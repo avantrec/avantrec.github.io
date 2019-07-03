@@ -13,7 +13,7 @@ The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/
 
 ## How do I set up my SonoPlus?
 
-Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the Micro-USB power socket on the SonoPlus. That's it.
+Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the micro-USB power socket on the SonoPlus. That's it.
 
 SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation]({{ site.baseurl }}{% link sonoplus/installation.md %}) to learn more.
 
