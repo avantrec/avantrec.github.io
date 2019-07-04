@@ -39,7 +39,7 @@ Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay 
 
 SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay (v1) capabilities to all Sonos players. 
 
-SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio to a streaming format that Sonos can play.
+SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and converts the audio stream into a protocol that Sonos can play.
 
 SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
@@ -70,7 +70,7 @@ SonoPlus supports all Sonos players ever produced. This includes the newer playe
 
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs. 
 
-If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) environment on a Raspberry Pi, you could use the publicly available AirConnect docker image that we maintain at [Docker Hub](https://hub.docker.com/r/psychlist/docker-airconnect-arm).
+If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) environment on a Raspberry Pi, you could use the publicly available [AirConnect Docker image](https://hub.docker.com/r/psychlist/docker-airconnect-arm) that we maintain at Docker Hub.
 
 ## What is SonoPlus *not* good for?
 
@@ -82,7 +82,7 @@ Not yet, but possibly in the future. We want to control the exact hardware speci
 
 ## Why do you use a Raspberry Pi as the basis for SonoPlus?
 
-The Pi is ideally suited for the SonoPlus application. It's small, silent, reliable, has low power demands, and has regulatory approval in all target geographies. And, it's a little computing  powerhouse, with more than enough processing power for the initial AirPlay capability as well as for a range of upcoming new features.
+The Pi is ideally suited for the SonoPlus application. It's small, silent, reliable, has low power demands, and has regulatory approval in all target geographies. And, it has more than enough computing power to deliver AirPlay capability as well as for a range of upcoming new features.
 
 ## What's next for SonoPlus?
 
