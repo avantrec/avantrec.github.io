@@ -70,7 +70,7 @@ SonoPlus supports all Sonos players ever produced. This includes the newer playe
 
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs. 
 
-If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go.
+If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) environment on a Raspberry Pi, you could use the publicly available AirConnect docker image that we maintain at [Docker Hub](https://hub.docker.com/r/psychlist/docker-airconnect-arm).
 
 ## What is SonoPlus *not* good for?
 
