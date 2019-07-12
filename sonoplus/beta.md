@@ -5,7 +5,7 @@ title: SonoPlus Beta
 
 # SonoPlus Beta Trial
 
-The SonoPlus concept and device are currently in limited beta trial, with a small number of units being field-tested. The objectives of the beta trial are to discover how well SonoPlus works in a variety of user environments, test the remote management capabilities, and gather feedback about the product concept.
+The SonoPlus concept and device are currently in limited beta trial, with a small number of units being field-tested. The objectives of the beta trial are to discover how well SonoPlus works in a variety of user environments, test remote updates and device management, and gather feedback about the product concept.
 
 If you're interested in participating in the beta trial, please get in touch by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> and include the following information:
 
