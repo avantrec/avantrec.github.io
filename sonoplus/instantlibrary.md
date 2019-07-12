@@ -30,7 +30,7 @@ Connect the storage device to your computer, then:
 ## Step 2: Install the USB storage device in your SonoPlus
 
 1. Power-down your SonoPlus
-1. Plug in the USB storage to one of the SonoPlus's four USB ports
+1. Plug in the USB storage device to one of the SonoPlus's four USB ports
 1. Power-on your SonoPlus
 
 ## Step 3: Add your Instant Library to Sonos
