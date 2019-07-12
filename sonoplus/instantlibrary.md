@@ -24,7 +24,7 @@ Up to four USB storage devices can be added. Note that if you're planning to use
 Connect the storage device to your computer, then:
 
 1. Make sure your storage device is formatted as a **FAT32** volume. This is the default format for most devices when they're new, but a reformat may be necessary if it's been changed.
-1. Rename your storage device to give it the label **SONOPLUS**, so it can be correctly detected as a music library by your SonoPlus.
+1. Rename your storage device to give it the name/label **SONOPLUS1**, so it can be correctly detected as a music library by your SonoPlus.
 1. Copy your music library (or other supported audio files) to the storage device. This may take a while, depending on the size of your library and the speed of your storage device.
 
 ## Step 2: Install the USB storage device in your SonoPlus
@@ -35,7 +35,7 @@ Connect the storage device to your computer, then:
 
 ## Step 3: Add your Instant Library to Sonos
 
-You can add your new NAS music library to Sonos using any of the Sonos mobile or desktop controllers. Add it as a network attached share using the following share name:
+You can add your new NAS music library to Sonos using any of the Sonos mobile or desktop controllers. Add it as a network attached (NAS) share using the following share name:
 
 `\\sonoplus.local\sonoplus1`
 
@@ -45,17 +45,16 @@ Once the share has been added, Sonos will automatically start a music library (r
 
 ## Step 4: Additional USB storage devices
 
-You can add up to four USB storage devices at the same time. Prepare them all using the process outlined in Step 1, then they can all be attached while the power is switched off in Step 2. Additional devices can also be added at any time later.
+You can add up to four USB storage devices at the same time. Prepare them all using the process outlined in Step 1, but name the second device **SONOPLUS2**, and so on.
 
-Each separate storage device needs to be added individually in the Sonos music library setup. The names of the additional shares are:
+All storage devices can then be attached while the power is switched off in Step 2. Additional devices can also be added at any time later.
 
-```
-\\sonoplus.local\sonoplus2
-\\sonoplus.local\sonoplus3
-\\sonoplus.local\sonoplus4
-```
+Each separate storage device needs to be added individually in the Sonos music library setup. The names of the additional shares follow the names of the available storage devices, as follows:
 
-These names will be used in order, i.e., your second storage device will be shared at `sonoplus2`, and so on.
+- SONOPLUS2 is shared at `\\sonoplus.local\sonoplus2`
+- SONOPLUS3 is shared at `\\sonoplus.local\sonoplus3`
+- SONOPLUS4 is shared at `\\sonoplus.local\sonoplus4`
+
 
 ## Step 5: Making changes
 
@@ -66,4 +65,4 @@ If you need to make changes to your music library, just remove the relevant USB 
 1. Power-up your SonoPlus
 1. Perform a music library reindex, using the Sonos app.
 
-If you remove a USB storage device from your SonoPlus permanently, be sure to perform a music library reindex. Note that device removal can result in your remaining storage devices changing their share name, e.g., a storage device shared as `sonoplus2` might shift to being shared as `sonoplus1`. This could break Sonos playlists and favourites you've created that include tracks from your SonoPlus music libraries, so please **take care when removing devices**!
+If you remove a USB storage device from your SonoPlus permanently, be sure to perform a music library reindex.
