@@ -3,7 +3,7 @@ layout: sonoplus
 title: Instant Music Library
 ---
 
-# Instant Music Library
+# Instant NAS Music Library
 
 Your SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Network Attached Storage) feature called **Instant Music Library**.
 
