@@ -9,9 +9,9 @@ Your SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Networ
 
 Just copy your music collection to a USB stick, plug it into your SonoPlus, and it's then available for playback on your Sonos system as a [music library](https://support.sonos.com/s/article/257).
 
-A single, large capacity 256GB USB memory stick (now available for about $25) can hold at least 500 CDs of lossless CD quality music, or at least 1,500 albums at 320kbps MP3, so you can support a sizeable music library with your SonoPlus and simple, inexpensive storage devices.
+A single, large capacity, 256GB USB memory stick (now available for about $25) can hold at least 500 CDs of CD quality losslessly encoded music, or at least 1,500 CDs encoded as 320kbps MP3, so you can support an impressive music library with your SonoPlus and simple, inexpensive storage devices.
 
-Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping your computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos. Instant Music Library creates **read-only** network shares using the older SMB v1 protocol supported by Sonos.
+Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping your computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos. Instant Music Library creates **read-only** network shares using the SMB v1 protocol required by Sonos.
 
 Up to nine USB storage devices (memory sticks or hard drives) can be added to your SonoPlus. Note that if you're planning to use a USB-attached hard drive, we strongly recommend that you use one with external power, to avoid excessive power demands on the SonoPlus's USB ports. The same applies if you choose to add an external USB hub.
 
