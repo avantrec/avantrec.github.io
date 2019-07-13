@@ -7,7 +7,7 @@ title: About SonoPlus
 
 **SonoPlus adds AirPlay capability to all Sonos players that don't support AirPlay 2**
 
-**** Also ... New Feature: [Instant Music Library]({{ site.baseurl }}{% link sonoplus/instantlibrary.md %}) ****
+**** Also ... New Feature: [Instant NAS Music Library]({{ site.baseurl }}{% link sonoplus/instantlibrary.md %}) ****
 
 SonoPlus is delivered as a preconfigured Raspberry Pi computer that you simply connect to your network using an Ethernet cable.
 
