@@ -3,7 +3,7 @@ layout: sonoplus
 title: Instant Music Library
 ---
 
-# Instant NAS Music Library
+# Instant Music Library
 
 Your SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Network Attached Storage) feature called **Instant Music Library**.
 
@@ -13,7 +13,7 @@ A single, large capacity, 256GB USB memory stick (now available for about $25) c
 
 Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping your computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos: Instant Music Library creates **read-only** network shares using the SMB v1 protocol required by Sonos.
 
-Up to nine USB storage devices (memory sticks or hard drives) can be added to your SonoPlus. Note that if you're planning to use a USB-attached hard drive, we strongly recommend that you use one with external power, to avoid excessive power demands on the SonoPlus's USB ports. The same applies if you choose to add an external USB hub.
+Up to nine USB storage devices (memory sticks or hard drives) can be added to your SonoPlus. Note that if you're planning to use a USB-attached hard drive, we recommend that you use one with external power, to avoid excessive power demands on the SonoPlus's USB ports. The same applies if you choose to add an external USB hub.
 
 # Setting up your Instant Library
 
@@ -54,7 +54,7 @@ If you remove a USB storage device from your SonoPlus permanently, be sure to pe
 
 ## Step 5: Additional USB storage devices
 
-You can include up to nine USB storage devices on your SonoPlus. Prepare them all using the process outlined in **Step 1** above, but **name** the second device **SONOPLUS2**, the third **SONOPLUS3**, and so on.
+You can include up to nine USB storage devices on your SonoPlus (subject to using one or more USB hubs to add USB ports). Prepare them all using the process outlined in **Step 1** above, but **name** the second device **SONOPLUS2**, the third **SONOPLUS3**, and so on.
 
 Follow **Step 2** above When you add or remove storage devices.
 
