@@ -37,9 +37,11 @@ You can add your new NAS music library to Sonos using any of the Sonos mobile or
 
 **\\\sonoplus.local\sonoplus1**
 
-Leave the username and password blank.
+Leave the username and password **blank**.
 
 Once the share has been added, Sonos will automatically start a music library (re)index process. When this is complete, the contents of your USB storage device will be available to play via the Sonos apps under **Music Library**.
+
+(Note: if you're connecting to the share from outside Sonos -- e.g., from a PC -- connect to the share as a **guest** user, if prompted.)
 
 ## Step 4: Making changes
 
@@ -48,9 +50,9 @@ If you need to make changes to your music library, just remove the relevant USB 
 1. Power-down your SonoPlus
 1. Re-add the USB device
 1. Power-up your SonoPlus
-1. Perform a music library reindex, using the Sonos app.
+1. Perform a music library reindex, using the Sonos app. (only required if you've actually changed the contents of the device)
 
-If you remove a USB storage device from your SonoPlus permanently, be sure to perform a music library reindex otherwise the music on the removed device will still appear in your Sonos library.
+If you remove a USB storage device from your SonoPlus permanently, perform a music library reindex otherwise the music on the removed device will still appear in your Sonos library.
 
 ## Step 5: Additional USB storage devices
 
