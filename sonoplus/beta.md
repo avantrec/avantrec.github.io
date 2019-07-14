@@ -13,6 +13,7 @@ If you're interested in participating in the beta trial, please get in touch by 
 1. Which Sonos speakers/players you have
 1. Which Apple devices you have from which you use (or will use) AirPlay
 1. Which audio sources (e.g., local music on iPhone, podcasts, BBC Sounds) you plan to use
+1. If you plan to use the [Instant Library](instantlibrary) NAS function
 
 If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge (we're covering the first batch of devices as a development expense). We reserve the right to request the return of the unit at the end of the trial, which is expected to last until the end of 2019.
 
