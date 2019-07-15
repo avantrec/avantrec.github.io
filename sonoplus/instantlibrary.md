@@ -11,7 +11,7 @@ Just copy your music collection to a USB stick, plug it into your SonoPlus, and 
 
 A single, large capacity, 256GB USB memory stick (now available for about $25) can hold at least 500 CDs of CD quality losslessly encoded music, or at least 1,500 CDs encoded as 320kbps MP3, so you can support an extensive music library with your SonoPlus and simple, inexpensive storage devices.
 
-Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping your computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos: Instant Music Library creates **read-only** network shares using the SMB v1 protocol required by Sonos.
+Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping your computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos: Instant Music Library creates **read-only** network shares using the **SMB v1** protocol required by Sonos.
 
 Up to **nine** USB storage devices (memory sticks or hard drives) can be added to your SonoPlus.
 
@@ -56,7 +56,7 @@ If you remove a USB storage device from your SonoPlus permanently, perform a mus
 
 ## Step 5: Additional USB storage devices
 
-You can include up to nine USB storage devices on your SonoPlus (subject to using one or more USB hubs to add USB ports). Prepare them all using the process outlined in **Step 1** above, but **name** the second device **SONOPLUS2**, the third **SONOPLUS3**, and so on.
+You can include up to nine USB storage devices on your SonoPlus (subject to using one or more USB hubs to expand the number of USB ports). Prepare them all using the process outlined in **Step 1** above, but **name** the second device **SONOPLUS2**, the third **SONOPLUS3**, and so on.
 
 Follow **Step 2** above When you add or remove storage devices.
 
@@ -64,6 +64,7 @@ Each separate storage device needs to be added individually in the Sonos music l
 
 - **SONOPLUS2** is shared at **\\\sonoplus.local\sonoplus2**
 - **SONOPLUS3** is shared at **\\\sonoplus.local\sonoplus3**
-- ... and so on.
+
+... and so on.
 
 Note that if you're planning to use USB-attached hard drives or external USB hubs, it's probably best to make sure they have external power. We haven't experienced any problems in testing, but placing excessive power demands on the SonoPlus USB ports may lead to unpredictable behaviour.
