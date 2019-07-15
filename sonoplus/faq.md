@@ -7,7 +7,7 @@ title: FAQ
 
 ## What's included?
 
-The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
+The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ![External](/images/external_link.png) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
 
 ![SonoPlus](/images/20190622-DSC_8894.jpg)
 
@@ -37,7 +37,7 @@ Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay 
 
 ## How does SonoPlus AirPlay work?
 
-SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) software project to provide AirPlay (v1) capabilities to all Sonos players. 
+SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) ![External](/images/external_link.png) software project to provide AirPlay (v1) capabilities to all Sonos players. 
 
 SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and adapts the audio stream into a protocol that Sonos can play.
 
@@ -56,9 +56,9 @@ While it's true that AirPlay v1 has a mixed reputation, it's quite possible for 
 {: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
-We use the [Balena](https://www.balena.io) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
+We use the [Balena](https://www.balena.io) ![External](/images/external_link.png) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
 
-This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
+This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) ![External](/images/external_link.png) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
 SonoPlus requires an Internet connection to obtain software updates and to permit remote management, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself doesn't require an Internet connection.
 
@@ -70,7 +70,7 @@ SonoPlus supports all Sonos players ever produced. This includes the newer playe
 
 If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs. 
 
-If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) environment on a Raspberry Pi, you could use the publicly available [AirConnect Docker image](https://hub.docker.com/r/psychlist/docker-airconnect-arm) that we maintain at Docker Hub.
+If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) ![External](/images/external_link.png) environment on a Raspberry Pi, you could use the publicly available [AirConnect Docker image](https://hub.docker.com/r/psychlist/docker-airconnect-arm) ![External](/images/external_link.png) that we maintain at Docker Hub.
 
 ## What is SonoPlus *not* good for?
 
