@@ -58,7 +58,7 @@ If you remove a USB storage device from your SonoPlus permanently, perform a mus
 
 You can include up to nine USB storage devices on your SonoPlus (subject to using one or more USB hubs to expand the number of USB ports). Prepare them all using the process outlined in **Step 1** above, but **name** the second device **SONOPLUS2**, the third **SONOPLUS3**, and so on.
 
-Follow **Step 2** above When you add or remove storage devices.
+Follow **Step 2** above when you add or remove storage devices.
 
 Each separate storage device needs to be added individually in the Sonos music library setup. The names of the network shares match the names of the available storage devices, as follows:
 
