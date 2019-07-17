@@ -7,7 +7,7 @@ title: FAQ
 
 ## What's included?
 
-The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ![External](/images/external_link.png) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable (2m) and an official Raspberry Pi power supply.
+The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ![External](/images/external_link.png) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable, and an official Raspberry Pi power supply.
 
 ![SonoPlus](/images/20190622-DSC_8894.jpg)
 
