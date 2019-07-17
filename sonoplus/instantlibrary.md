@@ -39,7 +39,7 @@ You can add your new NAS music library to Sonos using any of the Sonos mobile or
 
 Leave the username and password **blank**.
 
-Once the share has been added, Sonos will automatically start a music library (re)index process. When this is complete, the contents of your USB storage device will be available to play via the Sonos apps under **Music Library**.
+Once the share has been added, Sonos will automatically start a music library (re)index process. When this is complete, the contents of your USB storage device will be available to play via the Sonos apps under the **Music Library**.
 
 (Note: if you're connecting to the share from outside Sonos -- e.g., from a PC -- connect to the share as a **guest** user, if prompted.)
 
@@ -67,4 +67,4 @@ Each separate storage device needs to be added individually in the Sonos music l
 
 ... and so on.
 
-Note that if you're planning to use USB-attached hard drives or external USB hubs, it's probably best to make sure they have external power. We haven't experienced any problems in testing, but placing excessive power demands on the SonoPlus USB ports may lead to unpredictable behaviour.
+Note that if you're planning to use USB-attached hard drives or external USB hubs, it's probably best to make sure they have external power. We haven't experienced any problems in testing with various USB devices, but placing excessive power demands on the SonoPlus USB ports may lead to unpredictable behaviour.
