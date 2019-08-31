@@ -11,13 +11,13 @@ It's very easy to install your SonoPlus: you simply connect the Ethernet cable a
 
 Connect the supplied Ethernet cable between a free port on your router (or any other network switch/port connected to the same network), and the Ethernet port on the SonoPlus. When powered on, you should see 'blinky lights' at the SonoPlus Ethernet port.
 
-![SonoPlus Ethernet](/images/raspberrypi-in-case-02_300px_Ethernet.png)
+![SonoPlus Ethernet](/images/20190831-DSC_8915-PClr-Ethernet.png)
 
 ## Power Connection
 
-Plug the power supply into a power outlet, and connect the power cable to the micro-USB power input on the SonoPlus. Micro-USB is a contender for the world's worst-designed connector, so make sure you have the connector plug the right way up!
+Plug the power supply into a power outlet, and connect the power cable to the USB-C power input on the SonoPlus.
 
-![SonoPlus Power](/images/raspberrypi-in-case-02_300px_Power.png)
+![SonoPlus Power](/images/20190831-DSC_8911-PClr-Power.png)
 
 ## Startup
 
@@ -25,4 +25,4 @@ Once the power is connected, the SonoPlus will start automatically. The startup 
 
 Once the SonoPlus is ready, any older Sonos players will automatically show up as new AirPlay targets. Any Sonos players already supporting native AirPlay 2 (Play:5 gen2, Playbase, Beam, One, Amp) are omitted from SonoPlus to avoid speaker duplication in the list of AirPlay targets.
 
-**No configuration of SonoPlus is required**. It can also be switched on and off as required by removing power, but we recommend that it's left running and ready to use.
+**No configuration of SonoPlus is required**. It can also be switched on and off as required by switching off the power supply, but we recommend that it's left running and ready to use.
