@@ -9,7 +9,7 @@ title: FAQ
 
 The SonoPlus is a compact Raspberry Pi 4 computer, housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an official Raspberry Pi USB-C power supply, and a 2m Ethernet cable.
 
-![SonoPlus](/images/20190831-DSC_8909-PClr.jpg)
+![SonoPlus](/images/20190831-DSC_8919-PClr-2.jpg)
 
 ## How do I set up my SonoPlus?
 
