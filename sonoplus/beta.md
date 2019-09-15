@@ -10,7 +10,7 @@ The SonoPlus concept and device are currently in limited beta trial, with a smal
 If you're interested in participating in the beta trial, please get in touch by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> and include the following information:
 
 1. The country you're based in
-1. Which Sonos speakers/players you have
+1. Which Sonos speakers/players you have, and how many of each
 1. Which Apple devices you have from which you use (or will use) AirPlay
 1. Which audio sources (e.g., local music on iPhone, podcasts, BBC Sounds) you plan to use
 1. If you plan to use the [Instant Library](instantlibrary) NAS function
