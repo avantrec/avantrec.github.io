@@ -60,7 +60,7 @@ We use the [Balena](https://www.balena.io) ![External](/images/external_link.png
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) ![External](/images/external_link.png) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-SonoPlus requires an Internet connection to obtain software updates and to permit remote management, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself doesn't require an Internet connection.
+SonoPlus requires an Internet connection to permit remote management and software updates, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself uses local networking only, and doesn't require an Internet connection.
 
 ## Which Sonos players are supported?
 
