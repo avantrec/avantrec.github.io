@@ -5,12 +5,14 @@ title: SonoPlus Beta
 
 # SonoPlus Beta Trial
 
+**October 2019 Update**: *We have only two remaining places on the free beta trial. We're primarily seeking to fill these places with folks who have a large number (~10) of older Sonos players. Ideally, we'd also like them to experiment with the Instant Library feature.*
+
 The SonoPlus concept and device are currently in limited beta trial, with a small number of units being field-tested. The objectives of the beta trial are to discover how well SonoPlus works in a variety of user environments, test remote updates and device management, and gather feedback about the product concept.
 
 If you're interested in participating in the beta trial, please get in touch by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> and include the following information:
 
 1. The country you're based in
-1. Which Sonos speakers/players you have
+1. Which Sonos speakers/players you have, and how many of each
 1. Which Apple devices you have from which you use (or will use) AirPlay
 1. Which audio sources (e.g., local music on iPhone, podcasts, BBC Sounds) you plan to use
 1. If you plan to use the [Instant Library](instantlibrary) NAS function

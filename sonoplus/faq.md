@@ -7,13 +7,13 @@ title: FAQ
 
 ## What's included?
 
-The SonoPlus is a compact [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) ![External](/images/external_link.png) computer housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an Ethernet cable, and an official Raspberry Pi power supply.
+SonoPlus is a compact Raspberry Pi 4 computer, housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an official Raspberry Pi USB-C power supply, and a 2m Ethernet cable.
 
-![SonoPlus](/images/20190622-DSC_8894.jpg)
+![SonoPlus](/images/20190831-DSC_8919-PClr-2.jpg)
 
 ## How do I set up my SonoPlus?
 
-Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the micro-USB power socket on the SonoPlus. That's it.
+Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the USB-C power socket on the SonoPlus. That's it.
 
 SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation]({{ site.baseurl }}{% link sonoplus/installation.md %}) to learn more.
 
@@ -60,7 +60,7 @@ We use the [Balena](https://www.balena.io) ![External](/images/external_link.png
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) ![External](/images/external_link.png) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-SonoPlus requires an Internet connection to obtain software updates and to permit remote management, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself doesn't require an Internet connection.
+SonoPlus requires an Internet connection to permit remote management and software updates, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself uses local networking only, and doesn't require an Internet connection.
 
 ## Which Sonos players are supported?
 

@@ -41,7 +41,7 @@ Leave the username and password **blank**.
 
 Once the share has been added, Sonos will automatically start a music library (re)index process. When this is complete, the contents of your USB storage device will be available to play via the Sonos apps under the **Music Library**.
 
-(Note: if you're connecting to the share from outside Sonos -- e.g., from a PC -- connect to the share as a **guest** user, if prompted.)
+(Note: if for some reason you want to connect to the share from outside Sonos -- e.g., from a Mac or PC -- connect as a **guest** user, if prompted.)
 
 ## Step 4: Making changes
 
