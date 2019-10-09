@@ -64,11 +64,11 @@ SonoPlus requires an Internet connection to permit remote management and softwar
 
 ## Which Sonos players are supported?
 
-SonoPlus supports all Sonos players ever produced. This includes the newer players that provide AirPlay 2, but these are detected and omitted by SonoPlus.
+SonoPlus supports all Sonos players ever produced. This includes the newer players that provide AirPlay 2, but these are excluded by SonoPlus to avoid duplicate speakers in your AirPlay list.
 
 ## Is SonoPlus for me?
 
-If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs. 
+If you want a plug-and-play solution that delivers a reliable, very easy to set up, and simple to use AirPlay capability for your non-AirPlay Sonos players, then SonoPlus is a great fit for your needs. 
 
 If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) ![External](/images/external_link.png) environment on a Raspberry Pi, you could use the publicly available [AirConnect Docker image](https://hub.docker.com/r/psychlist/docker-airconnect-arm) ![External](/images/external_link.png) that we maintain at Docker Hub.
 

@@ -7,11 +7,11 @@ title: Instant Music Library
 
 Your SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Network Attached Storage) feature called **Instant Music Library**.
 
-Just copy your music collection to a USB stick (or other USB storage device), plug it into your SonoPlus, and it's then available for playback on your Sonos system as a [music library](https://support.sonos.com/s/article/257) ![External](/images/external_link.png).
+Just copy your music collection to a USB memory stick (or other USB storage device such as a USB disk), plug it into your SonoPlus, and it's then available for playback on your Sonos system as a [music library](https://support.sonos.com/s/article/257) ![External](/images/external_link.png).
 
-For example, a single, large capacity, 256GB USB memory stick (now available for about $25) can hold at least 500 CDs of CD quality losslessly encoded music, or at least 1,500 CDs encoded as 320kbps MP3, so you can support an extensive music library with your SonoPlus and simple, inexpensive storage devices.
+A single, large capacity, 256GB USB memory stick (now available for about $25) can hold at least 500 CDs of CD-quality losslessly encoded music, or at least 1,500 CDs encoded as 320kbps MP3, so you can support an extensive music library with just your SonoPlus and simple, inexpensive storage devices.
 
-Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping your computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos: Instant Music Library creates **read-only** network shares using the **SMB v1** protocol required by Sonos.
+Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos. And, Instant Music Library creates **read-only** network shares using the **SMB v1** protocol required by Sonos.
 
 Up to **nine** USB storage devices (memory sticks or hard drives) can be added to your SonoPlus.
 
