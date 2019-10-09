@@ -27,7 +27,7 @@ Connect the USB storage device to your computer, then:
 
 ## Step 2: Install the USB storage device in your SonoPlus
 
-Just insert the USB device into one of the four USB ports on your SonoPlus. The device will be automatically detected and its contents shared on the network within about thirty seconds.
+Just insert the USB device into one of the four USB ports on your SonoPlus. The device will be automatically detected and its contents shared on the network within a few seconds.
 
 ## Step 3: Add your Instant Library to Sonos
 
@@ -46,7 +46,7 @@ Once the share has been added, Sonos will automatically start a music library (r
 If you need to make changes to your music library, just:
 
 1. Remove the relevant USB storage device from your SonoPlus, connect it to your computer, and make your desired changes
-1. Reinsert the USB device into your SonoPlus and a wait for about thirty seconds for it to be detected and re-shared
+1. Reinsert the USB device into your SonoPlus and a wait a few seconds for it to be detected and shared on the network
 1. Perform a music library reindex, using the Sonos app. (only required if you've actually changed the contents of the device)
 
 If you remove a USB storage device from your SonoPlus permanently, perform a music library reindex otherwise the music on the removed device will still appear in your Sonos library.
