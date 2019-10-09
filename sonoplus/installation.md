@@ -9,7 +9,7 @@ It's very easy to install your SonoPlus: you simply connect the Ethernet cable a
 
 ## Ethernet Connection
 
-Connect the supplied Ethernet cable between a free port on your router (or any other network switch/port connected to the same network), and the Ethernet port on the SonoPlus. When powered on, you should see 'blinky lights' at the SonoPlus Ethernet port.
+Connect the supplied Ethernet cable between a free port on your router (or any other network switch connected to the same network), and the Ethernet port on the SonoPlus. When powered on, you should see 'blinky lights' at the SonoPlus Ethernet port.
 
 ![SonoPlus Ethernet](/images/20190831-DSC_8915-PClr-Ethernet.png)
 

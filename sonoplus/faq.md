@@ -37,9 +37,9 @@ Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay 
 
 ## How does SonoPlus AirPlay work?
 
-SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) ![External](/images/external_link.png) software project to provide AirPlay (v1) capabilities to all Sonos players. 
+SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) ![External](/images/external_link.png) software project to provide AirPlay (v1) capabilities to all Sonos players.
 
-SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and adapts the audio stream into a protocol that Sonos can play.
+SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a **bridge** between the AirPlay device and speaker, and transforms the audio stream into a protocol that Sonos can play.
 
 SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
@@ -51,7 +51,7 @@ It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and Son
 
 ## Is AirPlay v1 any good?
 
-While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well. In particular, the AirConnect system installed in SonoPlus allows generous buffering to be configured on both the sending (AirPlay) and receiving (Sonos) streams, to prevent audio dropouts.
+While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well. In particular, the AirConnect software used by SonoPlus allows generous buffering to be configured on both the sending (AirPlay) and receiving (Sonos) streams, to prevent audio dropouts.
 
 {: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
@@ -74,7 +74,7 @@ If you're technically capable and can set up AirConnect on your own Raspberry Pi
 
 ## What is SonoPlus *not* good for?
 
-SonoPlus provides AirPlay v1, not v2. This means that it doesn't include the enhancements in v2, such as the ability to synchronise audio with video playback on the sending device.
+SonoPlus provides original AirPlay, not AirPlay 2. This means that it doesn't include the enhancements in AirPlay 2, such as the ability to synchronise audio with video playback on the sending device.
 
 ## Is there a software-only version of SonoPlus?
 
