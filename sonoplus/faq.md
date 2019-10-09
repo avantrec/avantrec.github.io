@@ -56,11 +56,11 @@ While it's true that AirPlay v1 has a mixed reputation, it's quite possible for 
 {: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
-We use the [Balena](https://www.balena.io) ![External](/images/external_link.png) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
+We use the [Balena](https://www.balena.io) ![External](/images/external_link.png) Internet of Things (IoT) service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) ![External](/images/external_link.png) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-SonoPlus requires an Internet connection to permit remote management and software updates, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself uses local networking only, and doesn't require an Internet connection.
+SonoPlus requires an Internet connection to permit remote management and software updates, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required. Use of the AirPlay function itself uses local networking only, over standard AirPlay and Sonos protocols, and doesn't require an Internet connection.
 
 ## Which Sonos players are supported?
 
