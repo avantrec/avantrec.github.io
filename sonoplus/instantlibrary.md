@@ -29,7 +29,7 @@ Just insert the USB device into one of the four USB ports on your SonoPlus. The 
 
 ## Step 3: Add your new Instant Library to Sonos
 
-You can add your new music library to Sonos using any of the Sonos mobile or desktop controller apps, using [Music Library management](https://support.sonos.com/s/article/257) ![External](/images/external_link.png). Add it as a **Network Device** (NAS) share using the following share name:
+You can add your new music library to Sonos using any of the Sonos mobile or desktop controller apps, using [music library management](https://support.sonos.com/s/article/257) ![External](/images/external_link.png). Add it as a **Network Device** (NAS) share using the following share name:
 
 **\\\sonoplus.local\sonoplus1**
 
