@@ -5,51 +5,50 @@ title: Instant Music Library
 
 # Instant Music Library
 
-Your SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Network Attached Storage) feature called **Instant Music Library**.
+SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Network Attached Storage) feature called **Instant Music Library**.
 
-Just copy your music collection to a USB memory stick (or other USB storage device such as a USB disk), plug it into your SonoPlus, and it's then available for playback on your Sonos system as a [music library](https://support.sonos.com/s/article/257) ![External](/images/external_link.png).
+Just copy your music collection to a USB memory stick or other USB storage device such as a USB disk, plug it into your SonoPlus, and it's then available for playback on your Sonos system as a [music library](https://support.sonos.com/s/article/257) ![External](/images/external_link.png).
 
-A single, large capacity, 256GB USB memory stick (now available for about $25) can hold at least 500 CDs of CD-quality losslessly encoded music, or at least 1,500 CDs encoded as 320kbps MP3, so you can support an extensive music library with just your SonoPlus and simple, inexpensive storage devices.
+Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping computers connected and switched on, or having to buy and correctly configure a NAS unit just for Sonos. Your SonosPlus creates **read-only** network shares automatically, using the original **SMB v1** protocol required by Sonos.
 
-Your SonoPlus is always-on, so your music library will always be available, without worrying about keeping computers switched on or having to buy and correctly configure a dedicated NAS just for Sonos. And, Instant Music Library creates **read-only** network shares using the **SMB v1** protocol required by Sonos.
-
-Up to **nine** USB storage devices (memory sticks or hard drives) can be added to your SonoPlus.
+You can use all four of the SonoPlus's USB sockets to connect USB storage devices, and up to **nine** devices in total can be connected if you use a suitable USB expansion hub.
 
 # Setting Up Your Instant Library
 
-## Step 1: Prepare your USB storage device
+## Step 1: Add your audio files to the USB storage device
 
-Connect the USB storage device to your computer, then:
-
-1. Make sure your storage device is **formatted** as a **FAT32** volume. This is the default format for most devices when they're new, but a reformat may be necessary if the format has been changed.
-1. **Rename** your storage device to give it the name/label **SONOPLUS1**, so it can be  identified as a music library by your SonoPlus.
-1. **Copy your music library** (or other supported audio files) to the storage device. This may take a while, depending on the size of your library and the speed of your storage device.
+1. **Connect** the USB storage device to your computer
+1. Make sure your USB storage device is **formatted** as a **FAT32** volume. This is the default format for most devices when they're new, but a reformat may be necessary if the format has been changed.
+1. **Rename** your USB storage device to give it the name/label **SONOPLUS1**, so it will be identified as containing a music library by your SonoPlus.
+1. **Copy your music library** (or other supported audio files) to the USB storage device.
+1. **Remove** the USB storage device from your computer.
 
 ## Step 2: Install the USB storage device in your SonoPlus
 
 Just insert the USB device into one of the four USB ports on your SonoPlus. The device will be automatically detected and its contents shared on the network within a few seconds.
 
-## Step 3: Add your Instant Library to Sonos
+## Step 3: Add your new Instant Library to Sonos
 
-You can add your new NAS music library to Sonos using any of the Sonos mobile or desktop controllers. Add it as a network attached (NAS) share using the following share name:
+You can add your new music library to Sonos using any of the Sonos mobile or desktop controller apps, using [Music Library management](https://support.sonos.com/s/article/257) ![External](/images/external_link.png). Add it as a **Network Device** (NAS) share using the following share name:
 
 **\\\sonoplus.local\sonoplus1**
 
 Leave the username and password **blank**.
 
-Once the share has been added, Sonos will automatically start a music library (re)index process. When this is complete, the contents of your USB storage device will be available to play via the Sonos apps under the **Music Library**.
+Once the share has been added, Sonos will automatically start a music library index process. When this is complete, the contents of your USB storage device will be available to play via the Sonos apps under the **Music Library** section of your system.
 
-(Note: if for some reason you want to connect to the share from outside Sonos -- e.g., from a Mac or PC -- connect as a **guest** user, if prompted.)
+This step only needs to be done once for each USB device. You don't need to repeat it if you subsequently remove and reinsert the USB device to make changes.
 
 ## Step 4: Making changes
 
-If you need to make changes to your music library, just:
+When you make changes to the music library on a USB device, just:
 
-1. Remove the relevant USB storage device from your SonoPlus, connect it to your computer, and make your desired changes
-1. Reinsert the USB device into your SonoPlus and a wait a few seconds for it to be detected and shared on the network
-1. Perform a music library reindex, using the Sonos app. (only required if you've actually changed the contents of the device)
+1. **Remove** the USB storage device from your SonoPlus
+1. **Connect** it to your computer, and make your desired changes
+1. **Remove** the USB device from your computer and reinsert it into your SonoPlus
+1. SonoPlus will re-share the device's contents on the network and **automatically** initiate a Sonos music library reindex to pick up your changes
 
-If you remove a USB storage device from your SonoPlus permanently, perform a music library reindex otherwise the music on the removed device will still appear in your Sonos library.
+You **don't** need to power-down your SonoPlus when you add or remove USB devices.
 
 ## Step 5: Additional USB storage devices
 
@@ -64,4 +63,6 @@ Each separate storage device needs to be added individually in the Sonos music l
 
 ... and so on.
 
-Note that if you're planning to use USB-attached hard drives or external USB hubs, it's probably best to make sure they have external power. We haven't experienced any problems in testing with various USB devices, but placing excessive power demands on the SonoPlus USB ports may lead to unpredictable behaviour.
+## Step 6: Permanent removal of a USB storage device
+
+If you remove a USB storage device from your SonoPlus *permanently*, remember to remove the folder from the Sonos Music Library folder list using one of the Sonos controller apps.
