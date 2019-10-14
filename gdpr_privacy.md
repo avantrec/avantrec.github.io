@@ -27,3 +27,7 @@ We use customers’ personal data in order to deliver a contract. We do not hold
 ## Providing customers with access to their personal data
 
 Customers can request to view, amend or delete their data by contacting us by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a>.
+
+## Website Analytics
+
+This website uses Google Analytics for basic traffic analysis. It is configured to anonymise the IP addresses of visitors the site, so that no personally identifiable information is collected.
