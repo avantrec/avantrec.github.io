@@ -19,7 +19,7 @@ You can use all four of the SonoPlus's USB sockets to connect USB storage device
 
 1. **Connect** the USB storage device to your computer
 1. Make sure your USB storage device is **formatted** as a **FAT32** volume. This is the default format for most devices when they're new, but a reformat may be necessary if the format has been changed.
-1. **Rename** your USB storage device to give it the name/label **SONOPLUS1**, so it will be identified as containing a music library by your SonoPlus.
+1. **Rename** your USB storage device to give it the name/label '**SONOPLUS1**', so it will be identified as containing a music library by your SonoPlus.
 1. **Copy your music library** (or other supported audio files) to the USB storage device.
 1. **Remove** the USB storage device from your computer.
 
