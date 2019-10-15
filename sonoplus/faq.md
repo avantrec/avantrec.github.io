@@ -7,7 +7,7 @@ title: FAQ
 
 ## What's included?
 
-SonoPlus is a compact Raspberry Pi 4 computer, housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an official Raspberry Pi USB-C power supply, and a 2m Ethernet cable.
+SonoPlus is a fully assembled and preconfigured Raspberry Pi 4 computer, housed in the official red and white Raspberry Pi case. Included are a 32GB memory card containing the SonoPlus software, an official Raspberry Pi USB-C power supply, and a 2m Ethernet cable.
 
 ![SonoPlus](/images/20190831-DSC_8919-PClr-2.jpg)
 
@@ -15,7 +15,7 @@ SonoPlus is a compact Raspberry Pi 4 computer, housed in the official red and wh
 
 Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the USB-C power socket on the SonoPlus. That's it.
 
-SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation]({{ site.baseurl }}{% link sonoplus/installation.md %}) to learn more.
+SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation](installation) to learn more.
 
 ## How do I use SonoPlus AirPlay?
 
