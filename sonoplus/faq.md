@@ -74,7 +74,7 @@ If you're technically adept and can set up AirConnect on your own Raspberry Pi (
 
 ## What is SonoPlus *not* good for?
 
-SonoPlus provides original AirPlay, not AirPlay 2. This means that it doesn't include the enhancements in AirPlay 2, such as the ability to synchronise audio with video playback on the sending device.
+SonoPlus provides the original version of the AirPlay protocol, not the newer AirPlay 2 version. This means that it doesn't include the enhancements in AirPlay 2, such as the ability to synchronise audio with video playback on the sending device.
 
 ## Is there a software-only version of SonoPlus?
 
