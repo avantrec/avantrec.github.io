@@ -7,7 +7,7 @@ title: FAQ
 
 ## What's included?
 
-SonoPlus is a compact Raspberry Pi 4 computer, housed in the official red and white Raspberry Pi case. Included are a preinstalled 32GB memory card, an official Raspberry Pi USB-C power supply, and a 2m Ethernet cable.
+SonoPlus is a fully assembled and preconfigured Raspberry Pi 4 computer, housed in the official red and white Raspberry Pi case. Included are a 32GB memory card containing the SonoPlus software, an official Raspberry Pi USB-C power supply, and a 2m Ethernet cable.
 
 ![SonoPlus](/images/20190831-DSC_8919-PClr-2.jpg)
 
@@ -15,7 +15,7 @@ SonoPlus is a compact Raspberry Pi 4 computer, housed in the official red and wh
 
 Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the USB-C power socket on the SonoPlus. That's it.
 
-SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation]({{ site.baseurl }}{% link sonoplus/installation.md %}) to learn more.
+SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation](installation) to learn more.
 
 ## How do I use SonoPlus AirPlay?
 
@@ -37,9 +37,9 @@ Grouping Sonos players via the Sonos app works in the normal way -- the AirPlay 
 
 ## How does SonoPlus AirPlay work?
 
-SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) ![External](/images/external_link.png) software project to provide AirPlay (v1) capabilities to all Sonos players. 
+SonoPlus uses the open source [AirConnect](https://github.com/philippe44/AirConnect) ![External](/images/external_link.png) software project to provide AirPlay (v1) capabilities to all Sonos players.
 
-SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a bridge between the AirPlay device and speaker, and adapts the audio stream into a protocol that Sonos can play.
+SonoPlus detects all Sonos players, and creates AirPlay targets for each of them. When an AirPlay stream is started, SonoPlus acts as a **bridge** between the AirPlay device and speaker, and transforms the audio stream into a protocol that Sonos can play.
 
 SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
@@ -51,30 +51,30 @@ It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and Son
 
 ## Is AirPlay v1 any good?
 
-While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well. In particular, the AirConnect system installed in SonoPlus allows generous buffering to be configured on both the sending (AirPlay) and receiving (Sonos) streams, to prevent audio dropouts.
+While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well. In particular, the AirConnect software used by SonoPlus allows generous buffering to be configured on both the sending (AirPlay) and receiving (Sonos) streams, to prevent audio dropouts.
 
 {: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
 
-We use the [Balena](https://www.balena.io) ![External](/images/external_link.png) Internet of Things (IoT)  service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
+We use the [Balena](https://www.balena.io) ![External](/images/external_link.png) Internet of Things (IoT) service to manage all SonoPlus devices, including keeping the software secure and functional, as well as adding functionality over time.
 
 This approach has a strong focus on [security](https://www.balena.io/docs/learn/welcome/security/) ![External](/images/external_link.png) both in terms of the software that runs on SonoPlus devices as well as the means by which the devices are remotely accessed and managed.
 
-SonoPlus requires an Internet connection to permit remote management and software updates, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required or allowed. Use of the AirPlay function itself uses local networking only, and doesn't require an Internet connection.
+SonoPlus requires an Internet connection to permit remote management and software updates, using only a secure **outbound** VPN connection. No **inbound** connections from the Internet are required. Use of the AirPlay function itself uses local networking only, over standard AirPlay and Sonos protocols, and doesn't require an Internet connection.
 
 ## Which Sonos players are supported?
 
-SonoPlus supports all Sonos players ever produced. This includes the newer players that provide AirPlay 2, but these are detected and omitted by SonoPlus.
+SonoPlus supports all Sonos players ever produced. This includes the newer players that provide AirPlay 2, but these are excluded by SonoPlus to avoid duplicate speakers in your AirPlay list.
 
 ## Is SonoPlus for me?
 
-If you want a plug-and-play solution that delivers a reliable and easy to use AirPlay capability for your older Sonos players, then SonoPlus is likely to be a good fit for your needs. 
+If you want a plug-and-play solution that delivers a reliable, very easy to set up, and simple to use AirPlay capability for your non-AirPlay Sonos players, then SonoPlus is a great fit for your needs. 
 
-If you're technically capable and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) ![External](/images/external_link.png) environment on a Raspberry Pi, you could use the publicly available [AirConnect Docker image](https://hub.docker.com/r/psychlist/docker-airconnect-arm) ![External](/images/external_link.png) that we maintain at Docker Hub.
+If you're technically adept and can set up AirConnect on your own Raspberry Pi (or other computer), and keep it up-to-date and working, then it's definitely worth having a go. If you can set up a [Docker](https://blog.docker.com/2019/03/happy-pi-day-docker-raspberry-pi/) ![External](/images/external_link.png) environment on a Raspberry Pi, you could use the publicly available [AirConnect Docker image](https://hub.docker.com/r/psychlist/docker-airconnect-arm) ![External](/images/external_link.png) that we maintain at Docker Hub.
 
 ## What is SonoPlus *not* good for?
 
-SonoPlus provides AirPlay v1, not v2. This means that it doesn't include the enhancements in v2, such as the ability to synchronise audio with video playback on the sending device.
+SonoPlus provides the original version of the AirPlay protocol, not the newer AirPlay 2 version. This means that it doesn't include the enhancements in AirPlay 2, such as the ability to synchronise audio with video playback on the sending device.
 
 ## Is there a software-only version of SonoPlus?
 

@@ -1,9 +1,26 @@
 <!DOCTYPE html>
     <html>
         <head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149925954-1"></script>
+            <script>
+               window.dataLayer = window.dataLayer || [];
+               function gtag(){dataLayer.push(arguments);}
+               gtag('js', new Date());
+               gtag('config', 'UA-149925954-1');
+               gtag('config', '<GA_MEASUREMENT_ID>', { 'anonymize_ip': true });
+            </script>
             <title>{{ page.title }}</title>
             <!-- link to main stylesheet -->
             <link rel="stylesheet" type="text/css" href="/css/main.css">
+            <!-- favicon stuff -->
+            <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+            <link rel="manifest" href="/site.webmanifest">
+            <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+            <meta name="msapplication-TileColor" content="#2b5797">
+            <meta name="theme-color" content="#ffffff">
         </head>
         <body>
             <nav>
@@ -25,7 +42,8 @@
                     <li>Contact: <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a></li>
                 </ul>
                 <ul>
-                    <li>Avantrec Ltd is registered in England under company number: 12042694.<br>Registered Office: 52 Redland Court Road, Bristol BS6 7EH.</li>
+                    <li>Avantrec Ltd is registered in England under company number: 12042694.<br>Registered Office: 52 Redland Court Road, Bristol BS6 7EH.
+                    <br>This site collects no personal information and is <a href="/gdpr_privacy"><b>GDPR compliant</b></a>.</li>
                 </ul>
             </footer>
         </body>

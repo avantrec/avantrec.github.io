@@ -5,7 +5,7 @@ title: SonoPlus Beta
 
 # SonoPlus Beta Trial
 
-**October 2019 Update**: *We have only two remaining places on the free beta trial. We're primarily seeking to fill these places with folks who have a large number (~10) of older Sonos players. Ideally, we'd also like them to experiment with the Instant Library feature.*
+**October 2019 Update**: *We have just one remaining place on the free beta trial. We're ideally seeking a Sonos user who has a large number (~10) of older Sonos players, and who'd also like them to experiment with the Instant Library feature.*
 
 The SonoPlus concept and device are currently in limited beta trial, with a small number of units being field-tested. The objectives of the beta trial are to discover how well SonoPlus works in a variety of user environments, test remote updates and device management, and gather feedback about the product concept.
 
@@ -17,8 +17,8 @@ If you're interested in participating in the beta trial, please get in touch by 
 1. Which audio sources (e.g., local music on iPhone, podcasts, BBC Sounds) you plan to use
 1. If you plan to use the [Instant Library](instantlibrary) NAS function
 
-If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge (we're covering the first batch of devices as a development expense). We reserve the right to request the return of the unit at the end of the trial, which is expected to last until the end of 2019.
+If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge (we're covering the first batch of devices as a development expense). We reserve the right to request the return of the unit at the end of the trial, which is expected to last until at least the end of 2019.
 
-If you participate in the beta trial you agree to make use of the SonoPlus and let us know about your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). See the [FAQ](faq.html#remote-management) for more information on remote management. **No** personal information of any kind will be shared with any third party.
+If you participate in the beta trial you agree to make use of the SonoPlus and let us know about your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). See the [FAQ](faq.html#remote-management) for more information on remote management. **No** personal information of any kind will be shared with any third party, and our GDPR privacy policy can be found [here](../gdpr_privacy).
 
 Thanks for your interest in the SonoPlus beta trial.
