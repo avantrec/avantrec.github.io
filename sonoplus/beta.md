@@ -5,7 +5,7 @@ title: SonoPlus Beta
 
 # SonoPlus Beta Trial
 
-**October 2019 Update**: *We have just one remaining place on the free beta trial. We're ideally seeking a Sonos user who has a large number (~10) of older Sonos players, and who'd also like them to experiment with the Instant Library feature.*
+**October 2019 Update**: *We have just one remaining place on the free beta trial. We're ideally seeking a Sonos user who has a large number (~10) of older Sonos players, and who'd also like to experiment with the Instant Library feature.*
 
 The SonoPlus concept and device are currently in limited beta trial, with a small number of units being field-tested. The objectives of the beta trial are to discover how well SonoPlus works in a variety of user environments, test remote updates and device management, and gather feedback about the product concept.
 
