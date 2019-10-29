@@ -17,7 +17,7 @@ If you're interested in participating in the beta trial, please get in touch by 
 1. Which audio sources (e.g., local music on iPhone, podcasts, BBC Sounds) you plan to use
 1. If you plan to use the [Instant Library](instantlibrary) NAS function
 
-If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge (we're covering the first batch of devices as a development expense). We reserve the right to request the return of the unit at the end of the trial, which is expected to last until at least the end of 2019.
+If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge (we're covering the costs of the first batch of devices as a development expense). We reserve the right to request the return of the unit at the end of the trial, which is expected to last until at least the end of 2019.
 
 If you participate in the beta trial you agree to make use of the SonoPlus and let us know about your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). See the [FAQ](faq.html#remote-management) for more information on remote management. **No** personal information of any kind will be shared with any third party, and our GDPR privacy policy can be found [here](../gdpr_privacy).
 
