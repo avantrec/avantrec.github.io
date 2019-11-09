@@ -30,4 +30,4 @@ Customers can request to view, amend or delete their data by contacting us by em
 
 ## Website analytics
 
-This website uses Google Analytics for basic traffic analysis, which utilises browser cookies. It is configured to anonymise the IP addresses of visitors to the site, so that no personally identifiable information is collected by Google or by anyone else.
+This website uses Google Analytics for basic traffic analysis, which utilises browser cookies. It is configured to anonymise storage of the IP addresses of visitors to the site, so that no personally identifiable information is stored by Google or by anyone else.
