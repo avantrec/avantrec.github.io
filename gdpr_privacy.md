@@ -6,7 +6,7 @@ title: Avantrec Ltd Privacy Policy
 
 ## What information do we collect?
 
-Avantrec Ltd holds and processes some items of personal data relating to its customers, i.e., anyone who receives a product or service from Avantrec Ltd. As such, it is a Data Controller under the **EU General Data Protection Regulations** (GDPR).
+Avantrec Ltd holds and processes some items of personal data relating to its customers, i.e., anyone who receives a product or service from Avantrec Ltd. As such, it is a **Data Controller** under the **EU General Data Protection Regulations** (GDPR).
 
 We collect the following personal data at the point of sale:
 
