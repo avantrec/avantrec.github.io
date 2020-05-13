@@ -39,6 +39,8 @@ Once the share has been added, Sonos will automatically start a music library in
 
 This step only needs to be done once for each USB device. You don't need to repeat it if you subsequently remove and reinsert the USB device to make changes.
 
+# Optional Steps
+
 ## Making changes to your music library
 
 When you make changes to the music library on a USB device, just:
