@@ -39,7 +39,7 @@ Once the share has been added, Sonos will automatically start a music library in
 
 This step only needs to be done once for each USB device. You don't need to repeat it if you subsequently remove and reinsert the USB device to make changes.
 
-## Step 4: Making changes
+## Making changes to your music library
 
 When you make changes to the music library on a USB device, just:
 
@@ -50,7 +50,7 @@ When you make changes to the music library on a USB device, just:
 
 You **don't** need to power-down your SonoPlus when you add or remove USB devices.
 
-## Step 5: Additional USB storage devices
+## Installing additional USB storage devices
 
 You can include up to nine USB storage devices on your SonoPlus (subject to using one or more USB hubs to expand the number of USB ports). Prepare them all using the process outlined in **Step 1** above, but **name** the second device **SONOPLUS2**, the third **SONOPLUS3**, and so on.
 
@@ -63,6 +63,6 @@ Each separate storage device needs to be added individually in the Sonos music l
 
 ... and so on.
 
-## Step 6: Permanent removal of a USB storage device
+## Permanently removing a USB storage device
 
 If you remove a USB storage device from your SonoPlus *permanently*, remember to remove the folder from the Sonos Music Library folder list using one of the Sonos controller apps.
