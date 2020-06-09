@@ -3,6 +3,8 @@ layout: sonoplus
 title: Instant Music Library
 ---
 
+**Important: there is currently a problem in the Sonos S1 (v11.2) and Sonos S2 software versions that is preventing the addition of SonoPlus Music Library shares. Earlier Sonos versions are unaffected.**
+
 # Instant Music Library
 
 SonoPlus provides an easy-to-use, zero configuration, instant 'NAS' (Network Attached Storage) feature called **Instant Music Library**.
