@@ -13,8 +13,8 @@ We love our Sonos systems, and we have around twenty Sonos devices of various ty
 
 If you know your way around a Raspberry Pi, we offer a Docker-packaged version of AirConnect optimised for Sonos speakers:
 
-[Docker AirConnect])(https://github.com/pwt/airconnect)
+[Docker AirConnect](https://github.com/pwt/airconnect)
 
 If you're comfortable using Python and would like to control your Sonos speakers from the command line, and build automation scripts, take a look at our Sonos command line utility:
 
-[SoCo-CLI: Control Sonos from the Command] Line](https://github.com/avantrec/soco-cli)
+[SoCo-CLI: Control Sonos from the Command Line](https://github.com/avantrec/soco-cli)
