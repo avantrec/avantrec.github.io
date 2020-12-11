@@ -23,6 +23,6 @@ Plug the power supply into a power outlet, and connect the power cable to the US
 
 Once the power is connected, the SonoPlus will start automatically. The startup process is usually very quick (a few seconds), but if there are any pending software updates these will be downloaded and installed first. This can take a few minutes -- the exact duration depending on the speed of your Internet connection.
 
-Once the SonoPlus is ready, any older Sonos players will automatically show up as new AirPlay targets. Any Sonos players already supporting native AirPlay 2 (Play:5 gen2, Playbase, Beam, One, Amp, Port, Move and Symfonisk) are omitted from SonoPlus to avoid speaker duplication in the list of AirPlay targets.
+Once the SonoPlus is ready, any older Sonos players will automatically show up as new AirPlay targets. Any Sonos players already supporting native AirPlay 2 (Play:5 gen2, Five, Playbase, Beam, One, Amp, Port, Move, Arc and Symfonisk) are omitted from SonoPlus to avoid speaker duplication in the list of AirPlay targets.
 
 **No configuration of SonoPlus is required**. It can also be switched on and off as required by switching off the power supply, but we recommend that it's left running and ready to use.
