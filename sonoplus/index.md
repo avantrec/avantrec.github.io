@@ -5,17 +5,27 @@ title: About SonoPlus
 
 # About SonoPlus
 
-**SonoPlus adds AirPlay capability to all your non-AirPlay Sonos players**
+**SonoPlus enhances Sonos audio systems.**
 
-**** Also ... New Feature: [Instant NAS Music Library]({{ site.baseurl }}{% link sonoplus/instantlibrary.md %}) ****
+The SonoPlus is a preconfigured Raspberry Pi that you simply connect to your network using an Ethernet cable. No further setup or configuration is required.
 
-SonoPlus is delivered as a preconfigured Raspberry Pi computer that you simply connect to your network using an Ethernet cable.
+## 1: AirPlay for older Sonos systems
+
+SonoPlus adds AirPlay capability to all non-AirPlay Sonos speakers and devices.
+
+Once your SonoPlus is connected it will automatically find all your Sonos players, which will then appear as AirPlay speakers for your Apple devices. **One** SonoPlus will serve all of your players, and handle multiple AirPlay streams simultaneously.
+
+Learn more at the **[FAQ]({{ site.baseurl }}{% link sonoplus/faq.md %})**.
 
 {: style="text-align:center"}
 ![SonoPlus](/images/SonoPlusDiagram_600px.png)
 
-Once your SonoPlus is connected, all Sonos players will appear as AirPlay speakers, and work just like any other AirPlay devices. No setup or configuration of your SonoPlus is required. **One** SonoPlus will serve all of your players, and handle multiple simultaneous streams from different devices to different speakers.
+## 2: Easy, secure hosting of local music libraries
 
-Automatic software updates mean that your SonoPlus is kept up-to-date and secure, and its functionality will grow over time to include new features to enhance your Sonos experience. 
+The **[Instant Music Library]({{ site.baseurl }}{% link sonoplus/instantlibrary.md %})** feature provides a very simple and secure way of setting up a NAS (network-attached storage) capability, which meets the specific requirements of Sonos music libraries.
 
-SonoPlus is currently in beta test and is not yet on general sale. Learn more at the [FAQ]({{ site.baseurl }}{% link sonoplus/faq.md %}) and [Beta]({{ site.baseurl }}{% link sonoplus/beta.md %}) pages.
+## 3: Automatic software updates
+
+SonoPlus is automatically kept up-to-date and secure, and its functionality will grow over time to include new features to enhance your Sonos experience.
+
+**SonoPlus is currently in the product concept stage. Contact us at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> for more information.**

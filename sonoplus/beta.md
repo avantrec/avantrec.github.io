@@ -5,20 +5,6 @@ title: SonoPlus Beta
 
 # SonoPlus Beta Trial
 
-**All SonoPlus beta trial places are now filled. Thank you to everyone for your interest! If you'd like to be kept up to date with future developments, please just send us an email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a>**
+**The SonoPlus beta trial has now concluded. Thank you to everyone for your interest!**
 
-The SonoPlus concept and device are currently in limited beta trial, with a small number of units being field-tested. The objectives of the beta trial are to discover how well SonoPlus works in a variety of user environments, test remote updates and device management, and gather feedback about the product concept.
-
-If you're interested in participating in the beta trial, please get in touch by email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a> and include the following information:
-
-1. The country you're based in
-1. Which Sonos speakers/players you have, and how many of each
-1. Which Apple devices you have from which you use (or will use) AirPlay
-1. Which audio sources (e.g., local music on iPhone, podcasts, BBC Sounds) you plan to use
-1. If you plan to use the [Instant Library](instantlibrary) NAS function
-
-If you're invited to participate in the beta trial, we'll send a SonoPlus unit to you free of charge (we're covering the costs of the first batch of devices as a development expense).
-
-If you participate in the beta trial you agree to make use of the SonoPlus and let us know about your experiences. You also agree that we can remotely manage your SonoPlus device, for the sole purposes of updating its software and monitoring its performance (including troubleshooting). See the [FAQ](faq.html#remote-management) for more information on remote management. **No** personal information of any kind will be shared with any third party, and our GDPR privacy policy can be found [here](../gdpr_privacy).
-
-Thanks for your interest in the SonoPlus beta trial.
+**If you'd like to be kept up to date with future developments, please just send us an email at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a>**

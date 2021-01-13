@@ -1,9 +1,9 @@
 ---
 layout: sonoplus
-title: FAQ
+title: AirPLay FAQ
 ---
 
-# Frequently Asked Questions
+# Frequently Asked Questions: AirPlay
 
 ## What's included?
 
@@ -13,9 +13,7 @@ SonoPlus is a fully assembled and preconfigured Raspberry Pi 4 computer, housed 
 
 ## How do I set up my SonoPlus?
 
-Simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the USB-C power socket on the SonoPlus. That's it.
-
-SonoPlus is a plug-and-play 'appliance', and no end-user configuration or management is required. See [Installation](installation) to learn more.
+For AirPlay, simply connect the SonoPlus to your network using the Ethernet cable, then plug in the power supply and connect it to the USB-C power socket on the SonoPlus. That's it.  See [Installation](installation) to learn more.
 
 ## How do I use SonoPlus AirPlay?
 
@@ -43,15 +41,15 @@ SonoPlus detects all Sonos players, and creates AirPlay targets for each of them
 
 SonoPlus configures AirConnect to exclude any newer Sonos players that already support AirPlay 2, to avoid any duplication of speakers in the AirPlay menus.
 
-Avantrec contributes to AirConnect's development by submitting code improvements, suggesting feature enhancements, and reporting defects. We also independently test every new AirConnect release before making it available on SonoPlus.
+We contribute to AirConnect's development by submitting code improvements, suggesting feature enhancements, and reporting defects. We also independently test every new AirConnect release before making it available on SonoPlus.
 
 ## How's the sound quality?
 
-It's excellent: AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
+It's just as good as the source's audio quality: AirPlay sends audio to SonoPlus in lossless ALAC format, and SonoPlus converts that into lossless FLAC format for playback by Sonos, with no reduction in quality. Hence, the audio quality is as good as the original source, up to and including lossless CD quality.
 
 ## Is AirPlay v1 any good?
 
-While it's true that AirPlay v1 has a mixed reputation, it's quite possible for it to work very well. In particular, the AirConnect software used by SonoPlus allows generous buffering to be configured on both the sending (AirPlay) and receiving (Sonos) streams, to prevent audio dropouts.
+The AirPlay v1 implementation in SonoPlus works really well.
 
 {: id="remote-management"}
 ## How is SonoPlus managed and kept up-to-date? Is it secure?
@@ -82,10 +80,10 @@ Not yet, but possibly in the future. We want to control the exact hardware speci
 
 ## Why do you use a Raspberry Pi as the basis for SonoPlus?
 
-The Pi is ideally suited for the SonoPlus application. It's small, silent, reliable, has low power demands, and has regulatory approval in all target geographies. And, it has more than enough computing power to deliver AirPlay capability as well as for a range of upcoming new features.
+The Raspberry Pi is ideally suited for the SonoPlus application. It's small, silent, reliable, has low power demands, and has regulatory approval in all target geographies. And, it has more than enough computing power to deliver AirPlay capability as well as for a range of upcoming new features.
 
 ## What's next for SonoPlus?
 
-AirPlay is just the first in a series of Sonos enhancement functions under development for SonoPlus, which is designed to support multiple complementary features as independent software 'slices' that can be enabled and disabled on a per-device basis. New features will be delivered automatically as software updates.
+AirPlay and Instant Music Library are just the initial features in a series of Sonos enhancement functions under development for SonoPlus, which is designed to support multiple complementary features that will be delivered automatically as software updates.
 
-*Any other questions? Please get in touch at [avantrec.ltd@gmail.com](avantrec.ltd@gmail.com)*.
+*Any other questions? Please get in touch at <a href="mailto:avantrec.ltd@gmail.com">avantrec.ltd@gmail.com</a>*.
