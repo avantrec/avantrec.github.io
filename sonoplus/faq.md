@@ -1,6 +1,6 @@
 ---
 layout: sonoplus
-title: AirPLay FAQ
+title: AirPlay FAQ
 ---
 
 # Frequently Asked Questions: AirPlay
